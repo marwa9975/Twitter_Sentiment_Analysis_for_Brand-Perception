@@ -1,4 +1,6 @@
-# Twitter Sentiment Analysis for Brand Perception
+# Twitter Sentiment Analysis for Brand Perception 
+
+<img src="banner.jpeg" alt="Image" width="900" height="400">
 
 ## Table of Contents
 - [Introduction](#introduction)
